@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(177, 245, 245);
+}
+
+form{
+    border-color:darkblue;
+    border-width: 3px;
+    border-style: dashed;
+}
+
+#userName{
+    color: #FFC80F;
+}
